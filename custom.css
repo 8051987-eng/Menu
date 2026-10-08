@@ -1,0 +1,43 @@
+header {
+    background-color: rgb(134, 39, 39);
+    font-size: 70px;
+    text-align: center;
+    font-family: Cambria;
+    color: gold;
+}
+
+.r{
+    width: 299px;
+    float:right;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align:center;
+    font-size:50px;
+}
+
+pre{
+    font-size:20px;
+    color: gold;
+}
+
+body{
+    background-color: crimson;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+
+}
+
+.w{
+    width: 299px;
+    float:right;
+}
+
+footer{
+    font-size: 30px;
+    font-family:Space Grotesk ;
+}
